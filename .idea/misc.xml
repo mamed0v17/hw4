@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/no_internet.xml" value="0.16601409912109377" />
+        <entry key="app/src/main/res/layout/activity_detail.xml" value="0.14175724637681159" />
+        <entry key="app/src/main/res/layout/activity_no_internet.xml" value="0.14175724637681159" />
         <entry key="app/src/main/res/layout/activity_playlist.xml" value="0.11904761904761904" />
+        <entry key="app/src/main/res/layout/item_playlist.xml" value="0.258245849609375" />
       </map>
     </option>
   </component>

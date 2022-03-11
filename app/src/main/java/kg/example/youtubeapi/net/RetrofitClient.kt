@@ -1,6 +1,7 @@
-package kg.example.youtubeapi.remote
+package kg.example.youtubeapi.net
 
 import kg.example.youtubeapi.BuildConfig.BASE_URL
+import kg.example.youtubeapi.remote.ApiService
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
 import retrofit2.Retrofit

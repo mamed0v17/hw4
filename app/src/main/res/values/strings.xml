@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">YoutubeApi</string>
+    <string name="video">video</string>
+    <string name="try_again">Try again</string>
 </resources>
